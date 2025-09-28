@@ -15,6 +15,7 @@ classes = ['airplane','automobile','bird','cat','deer','dog','frog','horse','shi
 st.set_page_config(page_title="CIFAR-10 Image Classification", page_icon="📷")
 st.title("📷 Image Classification App")
 st.write("Upload an image and the model will predict its class.")
+st.write("Add only  airplane,  automobile,  bird,  cat,  deer,  dog,  frog,  horse,  ship,  truck Images")
 
 # Sidebar info
 st.sidebar.header("About the Project")
@@ -45,3 +46,4 @@ if uploaded_file is not None:
 
     st.subheader("Prediction")
     st.write(f"The uploaded image is classified as: **{predicted_class}**")
+
