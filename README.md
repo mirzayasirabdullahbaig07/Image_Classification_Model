@@ -9,7 +9,7 @@ An **AI-powered web application** built with **Streamlit** that classifies image
 
 ---
 
-## 🚀 Video Demmo
+## 🚀 Video Demo
 [Video Demo ](https://github.com/user-attachments/assets/264ab9a8-82d8-4ec8-9136-b8b5f3614b7d)
 
 ---
