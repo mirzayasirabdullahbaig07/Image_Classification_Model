@@ -4,8 +4,13 @@ An **AI-powered web application** built with **Streamlit** that classifies image
 
 ---
 
-## 🚀 Demo  
+## 🚀 Live Demo  
 🔗 [Live App on Streamlit](https://imageclassificationmodel07.streamlit.app/)
+
+---
+
+## 🚀 Video Demmo
+[Video Demo ](https://github.com/user-attachments/assets/264ab9a8-82d8-4ec8-9136-b8b5f3614b7d)
 
 ---
 
